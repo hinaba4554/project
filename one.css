@@ -80,7 +80,7 @@ input::placeholder {
   background-repeat: no-repeat;
   background-size: contain;
 }
-/* -------midddle part------ */
+/* ------------------------------------------------midddle part------ */
 .mid1 {
     align-items: center;
     justify-content: space-between;
@@ -288,7 +288,7 @@ input::placeholder {
   font-family: "Poppins";
   text-align: center;
 }
-/* ------dog image ----------------------------- */
+/* -----------------------------------------dog image ----------------------------- */
 .pik3 {
   display: flex;
   justify-content: space-around;
@@ -514,7 +514,7 @@ font-weight: 600;
 font-family: "Poppins";
 text-align: center;
 }
-/* ------------midddle part 6---------------- */
+/* ----------------------------------------------midddle part 6---------------- */
 .mid7
 {
     background-color: #ffffff;
